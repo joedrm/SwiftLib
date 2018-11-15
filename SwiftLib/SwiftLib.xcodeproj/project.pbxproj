@@ -13,7 +13,8 @@
 		48B0CDDF219D24F70015BE44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48B0CDDE219D24F70015BE44 /* Assets.xcassets */; };
 		48B0CDE2219D24F70015BE44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48B0CDE0219D24F70015BE44 /* LaunchScreen.storyboard */; };
 		48B0CDED219D24F70015BE44 /* SwiftLibUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48B0CDEC219D24F70015BE44 /* SwiftLibUITests.swift */; };
-		48B0CDFA219D253A0015BE44 /* QNNTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48B0CDF9219D253A0015BE44 /* QNNTheme.swift */; };
+		48B0CDFF219D47830015BE44 /* QNNFitsize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48B0CDFD219D47830015BE44 /* QNNFitsize.swift */; };
+		48B0CE00219D47830015BE44 /* QNNTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48B0CDFE219D47830015BE44 /* QNNTheme.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,7 +38,8 @@
 		48B0CDE8219D24F70015BE44 /* SwiftLibUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftLibUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		48B0CDEC219D24F70015BE44 /* SwiftLibUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLibUITests.swift; sourceTree = "<group>"; };
 		48B0CDEE219D24F70015BE44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		48B0CDF9219D253A0015BE44 /* QNNTheme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QNNTheme.swift; sourceTree = "<group>"; };
+		48B0CDFD219D47830015BE44 /* QNNFitsize.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QNNFitsize.swift; sourceTree = "<group>"; };
+		48B0CDFE219D47830015BE44 /* QNNTheme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QNNTheme.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,17 +104,10 @@
 		48B0CDF7219D253A0015BE44 /* Components */ = {
 			isa = PBXGroup;
 			children = (
-				48B0CDF8219D253A0015BE44 /* QNNTheme */,
+				48B0CDFD219D47830015BE44 /* QNNFitsize.swift */,
+				48B0CDFE219D47830015BE44 /* QNNTheme.swift */,
 			);
 			path = Components;
-			sourceTree = "<group>";
-		};
-		48B0CDF8219D253A0015BE44 /* QNNTheme */ = {
-			isa = PBXGroup;
-			children = (
-				48B0CDF9219D253A0015BE44 /* QNNTheme.swift */,
-			);
-			path = QNNTheme;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -217,8 +212,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				48B0CDDA219D24F50015BE44 /* ViewController.swift in Sources */,
+				48B0CE00219D47830015BE44 /* QNNTheme.swift in Sources */,
 				48B0CDD8219D24F50015BE44 /* AppDelegate.swift in Sources */,
-				48B0CDFA219D253A0015BE44 /* QNNTheme.swift in Sources */,
+				48B0CDFF219D47830015BE44 /* QNNFitsize.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
