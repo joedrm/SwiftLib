@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SwiftLib.xcworkspace">
+   </FileRef>
+   <FileRef
+      location = "group:&#x9762;&#x5411;&#x534f;&#x8bae;&#x5f00;&#x53d1;/&#x9762;&#x5411;&#x534f;&#x8bae;&#x5f00;&#x53d1;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x534f;&#x8bae;.playground">
+   </FileRef>
+   <FileRef
+      location = "group:&#x6cdb;&#x578b;.playground">
+   </FileRef>
+   <FileRef
+      location = "group:&#x81ea;&#x5b9a;&#x4e49;&#x8fd0;&#x7b97;&#x7b26;.playground">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftLib/SwiftLib.xcodeproj">
+   </FileRef>
+</Workspace>
