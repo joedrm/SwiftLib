@@ -20,4 +20,7 @@ class ViewController: UIViewController {
 
 /*
  https://www.cnblogs.com/tangjianfeng/p/7898903.html
+ https://github.com/gongxiaokai/frameworkWithPods
+ https://www.imooc.com/article/26479
+ https://www.jianshu.com/p/9eaebf93466f
  */
